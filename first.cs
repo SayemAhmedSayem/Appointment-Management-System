@@ -8,7 +8,8 @@ namespace HelloWorld
     {
       Console.WriteLine("Hello World!");
 	  Console.WriteLine("I am Learning C#");
-	  Console.WriteLine("It is awesome!");   
+	  Console.WriteLine("It is awesome!"); 
+	  Console.WriteLine(3 + 3);
     }
   }
 }
