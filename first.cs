@@ -12,6 +12,8 @@ namespace HelloWorld
 	  Console.WriteLine(3 + 3);
 	  Console.Write("Hello World! ");
 	  Console.Write("I will print on the same line.");
+	  // This is a comment
+	  Console.WriteLine("Hello World!");
     }
   }
 }
